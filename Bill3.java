@@ -13,7 +13,7 @@ public class Bill3 {
 	      pay = Math.ceil(pay);
 		
 
-         System.out.printf("Dear " + nanm3 + ", " + name2 + ", " + "and " + name1 + ": pay " + pay + " shekels each." );
+         System.out.printf("Dear " + nanm3 + "\n" + ", " + name2 + ", " + "and " + name1 + ": pay " + pay + " shekels each." );
 		
 	
 	    // Replace this comment with the rest of your code   
