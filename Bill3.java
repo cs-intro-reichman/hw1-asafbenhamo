@@ -1,6 +1,6 @@
 // Splits a restaurant bill evenly among three diners.
 
-//import javax.print.DocFlavor.STRING;
+//import javax.print.DocFlavor.STRING
 
 public class Bill3 {
 	public static void main(String[] args) {
